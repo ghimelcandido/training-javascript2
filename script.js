@@ -1,16 +1,16 @@
 const listaDeAlunos = [
     {
-        nome: "Ghimel",
+        nome: "João",
         nota1: 6,
         nota2: 7
     },
     {
-        nome: "Amalia",
+        nome: "Maria",
         nota1: 10,
         nota2: 10 
     },
     {
-        nome: "Bruno",
+        nome: "Fabricio",
         nota1: 9,
         nota2: 9 
     }
